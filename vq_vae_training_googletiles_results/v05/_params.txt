@@ -1,0 +1,11 @@
+
+params = {
+    'batch_size': 1024,
+    'img_size': 64,
+    'channels': 3,
+    'embedding_dim': 64,
+    'num_embeddings': 128,
+    'beta': 0.25,
+    'n_epochs': 15,  # 10
+}
+    
