@@ -1,0 +1,4 @@
+precision 0.80 anomaly score threshold 0.60 result 44.80%
+precision 0.85 anomaly score threshold 0.58 result 42.06%
+precision 0.90 anomaly score threshold 0.56 result 39.22%
+precision 0.95 anomaly score threshold 0.55 result 37.62%
