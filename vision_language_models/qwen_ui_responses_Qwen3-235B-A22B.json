@@ -1,0 +1,128 @@
+{
+    "positive": [
+        { 
+          "image": "000000.jpeg",
+          "is_visible": true,
+          "confidence": 8,
+          "explanation": "The image shows a distinct rectangular structure with clear geometric patterns and linear features that are characteristic of an archaeological site. The layout suggests organized construction, possibly ancient ruins or remnants of a historical settlement."
+        },
+        {
+          "image": "000001.jpeg",
+          "is_visible": true,
+          "confidence": 7,
+          "explanation": "The image shows a pattern of linear and geometric shapes that resemble ancient structures or remnants. The organized layout and distinct lines suggest the presence of an archaeological site, possibly ruins or earthworks."
+        },
+        {
+          "image": "000002.jpeg",
+          "is_visible": true,
+          "confidence": 6,
+          "explanation": "The image shows a pattern of dark, irregular shapes that could indicate remnants of an archaeological site. The clustered arrangement and distinct features suggest possible human-made structures or earthworks, though the resolution is low, making it less certain."
+        },
+        {
+          "image": "000003.jpeg",
+          "is_visible": false,
+          "confidence": 3,
+          "explanation": "The image appears to show a natural rock surface with no clear signs of human-made structures or organized patterns. The features are consistent with geological formations rather than archaeological remains."
+        },
+        {
+          "image": "000004.jpeg",
+          "is_visible": true,
+          "confidence": 8,
+          "explanation": "The image shows a circular structure with concentric rings and linear features radiating outward, which are characteristic of an archaeological site. The organized layout suggests intentional construction, likely ancient ruins or earthworks."
+        },
+        {
+          "image": "000005.jpeg",
+          "is_visible": false,
+          "confidence": 3,
+          "explanation": "The image appears to be a satellite or aerial view of a landscape, but there are no distinct features that resemble an archaeological site. The terrain looks relatively uniform with some natural patterns, but no structures, ruins, or other indicators of human activity are clearly visible."
+        },
+        {
+          "image": "000006.jpeg",
+          "is_visible": false,
+          "confidence": 4,
+          "explanation": "The image shows a natural landscape with geological formations, such as ridges and valleys. There are no clear signs of human-made structures or artifacts that would indicate an archaeological site. The terrain appears to be predominantly natural and undisturbed."
+        },
+        {
+          "image": "000007.jpeg",
+          "is_visible": false,
+          "confidence": 5,
+          "explanation": "The image shows a barren, sandy or dusty landscape with some scattered rocks or small formations. There are no clear structures, ruins, or other features that would indicate an archaeological site. The terrain appears natural and lacks any distinct human-made elements."
+        },
+        {
+          "image": "000008.jpeg",
+          "is_visible": false,
+          "confidence": 4,
+          "explanation": "The image appears to show a barren, possibly desert-like landscape with scattered dark spots that could be rocks or vegetation. There are no clear signs of human-made structures, ruins, or other features typically associated with an archaeological site. The terrain looks natural and lacks distinct patterns or formations indicative of past human activity."
+        },
+        {
+          "image": "000009.jpeg",
+          "is_visible": true,
+          "confidence": 8,
+          "explanation": "The image shows a structure that appears to be rectangular and made of stone or similar material, which is consistent with the appearance of an archaeological site. The surrounding area has a rugged, natural landscape, and the structure stands out as a potential human-made feature. While the resolution is low, the shape and context suggest it could be part of an ancient settlement or ruin."
+        }
+    ],
+    
+    
+    "negative": [
+        {
+          "image": "000005.jpeg",
+          "is_visible": false,
+          "confidence": 10,
+          "explanation": "The image appears to show a close-up of a textured surface, possibly rock or sediment, with no discernible features that resemble an archaeological site. There are no structures, artifacts, or patterns indicative of human activity."
+        },
+        {
+          "image": "000020.jpeg",
+          "is_visible": false,
+          "confidence": 10,
+          "explanation": "The image shows a close-up of a textured surface, likely rock or sediment, with small specks and striations. There are no visible structures, artifacts, or patterns that suggest the presence of an archaeological site."
+        },
+        {
+          "image": "000042.jpeg",
+          "is_visible": false,
+          "confidence": 10,
+          "explanation": "The image shows a close-up of a textured surface, likely rock or sediment, with faint lines and striations. There are no visible structures, artifacts, or patterns indicative of an archaeological site."
+        },
+        {
+          "image": "000049.jpeg",
+          "is_visible": false,
+          "confidence": 10,
+          "explanation": "The image shows a close-up of a textured surface, likely rock or sediment, with no discernible features that resemble an archaeological site. There are no structures, artifacts, or patterns indicative of human activity."
+        },
+        {
+          "image": "000069.jpeg",
+          "is_visible": false,
+          "confidence": 10,
+          "explanation": "The image shows a close-up of a textured surface, likely rock or sediment, with no discernible features that resemble an archaeological site. There are no structures, artifacts, or patterns indicative of human activity."
+        },
+        {
+          "image": "000088.jpeg",
+          "is_visible": false,
+          "confidence": 10,
+          "explanation": "The image shows a close-up of a textured surface, likely rock or sediment, with no discernible features that resemble an archaeological site. There are no structures, artifacts, or patterns indicative of human activity."
+        },
+        {
+          "image": "000091.jpeg",
+          "is_visible": false,
+          "confidence": 10,
+          "explanation": "The image shows a close-up of a textured surface, likely rock or sediment, with no discernible features that resemble an archaeological site. There are no structures, artifacts, or patterns indicative of human activity."
+        },
+        {
+          "image": "000095.jpeg",
+          "is_visible": false,
+          "confidence": 10,
+          "explanation": "The image shows a close-up of a textured surface, likely rock or sediment, with no discernible features that resemble an archaeological site. There are no structures, artifacts, or patterns indicative of human activity."
+        },
+        {
+          "image": "000098.jpeg",
+          "is_visible": false,
+          "confidence": 10,
+          "explanation": "The image shows a close-up of a textured surface, likely rock or sediment, with no discernible features that resemble an archaeological site. There are no structures, artifacts, or patterns indicative of human activity."
+        },
+        {
+          "image": "000164.jpeg",
+          "is_visible": false,
+          "confidence": 10,
+          "explanation": "The image shows a close-up of a textured surface, likely rock or sediment, with no discernible features that resemble an archaeological site. There are no structures, artifacts, or patterns indicative of human activity."
+        }
+    ]
+}
